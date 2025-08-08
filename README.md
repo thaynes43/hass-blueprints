@@ -15,6 +15,7 @@ I tried using these with local control but I'd often find them all in a weird st
 
 - [Blueprint](vendors/thirdreality/multi-function-night-light.yaml)
 - [Device](https://3reality.com/product/multi-function-night-light/?srsltid=AfmBOorRmSz-9wMrWX-aQzW6vmrzwU0TmavZpIxrhNiRBAEm7k02YvaZ)
+- [HA Forums](https://community.home-assistant.io/t/thirdreality-multi-function-night-light/918726)
 
 **Mandatory Prerequisites**
 
