@@ -13,7 +13,7 @@ Vendor specific blueprints listed below.
 
 I tried using these with local control but I'd often find them all in a weird state where the light would be always on but very dim. I could fix this by setting the brightness to 100% but eventually I got fed up and disabled the local control mode. 
 
-- [Blueprint](vendors/thirdreality/@multi-function-night-light.yaml)
+- [Blueprint](vendors/thirdreality/multi-function-night-light.yaml)
 - [Device](https://3reality.com/product/multi-function-night-light/?srsltid=AfmBOorRmSz-9wMrWX-aQzW6vmrzwU0TmavZpIxrhNiRBAEm7k02YvaZ)
 
 **Mandatory Prerequisites**
