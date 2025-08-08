@@ -3,6 +3,8 @@ This repository is for hosting blueprints that work with Home Assistant.
 
 I found many blueprints seem generic but really only work well with a specific device or device class. I will organize these by vendor in the "vendors" folder. Any generic blueprints will be placed elsewhere though none exist today.
 
+> Import links will be generated with https://my.home-assistant.io/create-link/?redirect=blueprint_import for the forum posts
+
 ## Vendors
 
 Vendor specific blueprints listed below.
